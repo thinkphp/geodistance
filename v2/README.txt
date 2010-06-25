@@ -1,0 +1,1 @@
+This is a simple tools to show you distance between two places on earth. Simply enter the locations in the form and submit it.

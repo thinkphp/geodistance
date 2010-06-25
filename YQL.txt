@@ -1,0 +1,2 @@
+use "http://thinkphp.ro/apps/php-hacks/distance/geo.distance.xml" as geo.distance; 
+select * from geo.distance where place1="bucharest" and place2="london"
